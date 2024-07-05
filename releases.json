@@ -1,5 +1,5 @@
 {
-  "version": "v1.0.0",
+  "version": "v1.0.1",
   "notes": "*升级前请停止运行机械臂，并将机械臂移动到安全位置。
   *升级过程中不要断开控制器的网络。
   *如果设备信息页面的机械臂SN一栏为空，请不要升级并联系支持。
@@ -53,7 +53,7 @@
     },
     "windows-x86_64": {
       "signature": "Content of app.msi.sig",
-      "url": "https://github.com/garmin-z/api/releases/studio_1.0.0_x64_en-US.zip"
+      "url": "https://github.com/garmin-z/api/releases/studio_1.0.1_x64_en-US.zip"
     }
   }
 }
