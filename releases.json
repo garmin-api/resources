@@ -17,7 +17,7 @@
     },
     "windows-x86_64": {
       "signature": "Content of app.msi.sig",
-      "url": "https://github.com/garmin-z/api/releases/studio_1.0.1_x64_en-US.zip"
+      "url": "https://github.com/garmin-z/api/download/studio_1.0.1_x64-setup.nsis.zip"
     }
   }
 }
