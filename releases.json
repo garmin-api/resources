@@ -16,7 +16,7 @@
       "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-amd64.AppImage.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "Content of app.msi.sig",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcmttV05aMmRCTFZNNWZmUEVuVXVheis1KzFhVmhIZVYvby95TXBSaXFWTkcyeEZFMWFGY3hrVEVRQWJPOGNvRWFiQlF0bEZ4OTJsOGVjUTRoOGZkaFovQkQ4TUhZd1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIxMTIxNzc5CWZpbGU6c3R1ZGlvXzEuMC4xX3g2NF9lbi1VUy5tc2kuemlwCnowYjRic3NZT2VwMDc1dE82d2h4Tmk3WmZwb3FKUldxUEdNSzdyZ1Qxa1MvVUgwSjNsVW1PMFpmMVRhTi9oRE15N1lHVW5UN2E2ZGZ6Z0YwZ3pzMEN3PT0K",
       "url": "https://github.com/garmin-z/tauri-vite-react/releases/download/untagged-ec965bfcc60bf1de75b0/studio_1.0.1_x64_en-US.msi.zip"
     }
   }
