@@ -8,8 +8,8 @@
             "url": "https://raw.githubusercontent.com/garmin-z/api/refs/heads/master/download/xarm-tool_0.1.1_x64_en-US.msi"
         },
         "windows-x86_64": {
-            "signature": "https://raw.githubusercontent.com/garmin-z/api/refs/heads/master/download/xarm-tool_0.1.1_x64_en-US.msi.sig",
-            "url": "https://raw.githubusercontent.com/garmin-z/api/refs/heads/master/download/xarm-tool_0.1.1_x64_en-US.msi"
+            "signature": "https://raw.githubusercontent.com/garmin-z/api/refs/heads/master/download/xarm-tool_0.1.1_x64-setup.exe.sig",
+            "url": "https://raw.githubusercontent.com/garmin-z/api/refs/heads/master/download/xarm-tool_0.1.1_x64-setup.exe"
         },
         "darwin-x86_64": {
             "signature": "ss",
