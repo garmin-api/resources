@@ -1,5 +1,5 @@
 {
-    "version": "v0.1.0",
+    "version": "v0.1.1",
     "notes": "{\"forceUpdate\":false,\"description\":\"这版修复重要漏洞，请立即更新！\",\"content\":\"<b>更新内容</b><ul><li style=\"color:red;\">第一点</li><li>第二点</li></ul>\"}",
     "pub_date": "2024-10-15T18:23:00.307Z",
     "platforms": {
